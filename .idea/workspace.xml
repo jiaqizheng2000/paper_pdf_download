@@ -33,7 +33,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/python_project/paper_download",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -75,7 +75,7 @@
       <updated>1655117845734</updated>
       <workItem from="1655117847298" duration="889000" />
       <workItem from="1655118890064" duration="681000" />
-      <workItem from="1655119587627" duration="11000" />
+      <workItem from="1655119587627" duration="80000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1655118273553</created>
