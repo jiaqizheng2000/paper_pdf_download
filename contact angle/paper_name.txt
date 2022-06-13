@@ -1,0 +1,884 @@
+Grain Boundary Effects in Dealloying Metals  A Multi-Phase Field Study
+On the use of asymptotically motivated gauge functions to obtain convergent series solutions to nonlinear ODE
+Viscous Fingering Instability of Complex Fluids in a Tapered Geometry
+A maximum principle for codimension-1 stationary varifolds under fixed contact angle condition
+Putting the micro into the macro  A molecularly-augmented hydrodynamic model of dynamic wetting applied to flow instabilities during forced dewetting
+Density-constrained Chemotaxis and Hele-Shaw flow
+Influence of Salt on the Formation and Separation of Droplet Interface Bilayers
+Thermodynamics and hydrodynamics of spontaneous and forced imbibition in conical capillaries  A theoretical study of conical liquid diode
+Long-time behaviour and stability for quasilinear doubly degenerate parabolic equations of higher order
+Investigating the source of hysteresis in the Soil-Water Characteristic Curve using the multiphase lattice Boltzmann method
+Durable and Recoverable Hydrophilicity of Polyethylene Terephthalate Fabric Prepared with Plasma Selective Etching
+Sustainable and effective antimicrobial surface based on cellulose thin films
+Hydrodynamic Interactions Between Charged and Uncharged Brownian Colloids at a Fluid-Fluid Interface
+Wetting dynamics under periodic switching on different scales  Characterization and mechanisms
+Liquid film rupture beyond the thin-film equation  a multi-component lattice Boltzmann study
+Open-source finite volume solvers for multiphase (n-phase) flows involving either Newtonian or non-Newtonian complex fluids
+A Heintze-Karcher type inequality for hypersurfaces with capillary boundary
+Evaporation of liquid coating a fiber
+Optimizing fog harvesting by biomimicry
+Different configurations of transferred atmospheric pressure plasma jet and their application to polymer treatment
+Sub-harmonic parametric instability in nearly-brimful circular-cylinders  a weakly nonlinear analysis
+Analysis of an unsteady quasi-capillary channel flow with Time Resolved PIV and RBF-based super resolution
+On a discrete scheme for the Mullins-Sekerka flow and its fine properties
+Gradient estimate of the solutions to Hessian equations with oblique boundary value
+Effect of Contact Angle on Capillary Pressure and Liquid Recovery from Angular Pore Channels
+Numerical simulation of the coalescence-induced polymeric droplet jumping on superhydrophobic surfaces
+Contact angle measurement on curved wetting surface in multiphase lattice Boltzmann method
+Nonlocal capillarity for anisotropic kernels
+Assessment of nanoparticle immersion depth at liquid interfaces from chemically equivalent macroscopic surfaces
+Fluorination Increases Hydrophobicity at the Macroscopic Level but not at the Microscopic Level
+Computational analysis of interface evolution and droplet pinch-off mechanism in two-phase liquid flow through T-junction microfluidic system
+A lattice Boltzmann model for self-diffusiophoretic particles near and at liquid-liquid interfaces
+Wetting of an elastic sheet subject to external tension
+Interface potential and line tension for Bose-Einstein condensate mixtures near a hard wall
+Soft wetting with (a)symmetric Shuttleworth effect
+Effects of the initial perturbations on the Rayleigh-Taylor-Kelvin-Helmholtz instability system
+Local well-posedness of the capillary-gravity water waves with acute contact angles
+A unified theory to describe the transition of stable nanobubbles to unstable microbubbles on homogeneous surface
+Dewetting Characteristics of Contact Lenses Coated with Wetting Agents
+On a fluid-structure interaction problem for plaque growth  cylindrical domain
+Droplets on Lubricated Surfaces  The slow dynamics of skirt formation
+Convergence rates for the Allen-Cahn equation with boundary contact energy  The non-perturbative regime
+Weak-strong uniqueness for the Navier-Stokes equation for two fluids with ninety degree contact angle and same viscosities
+BV solutions for mean curvature flow with constant contact angle  Allen-Cahn approximation and weak-strong uniqueness
+Spreading of a droplet impacting on a smooth flat surface  how liquid viscosity influences the maximum spreading time and spreading ratio
+Controlling the dewetting morphologies of thin liquid films by switchable substrates
+Nanoscale sheared droplet  Volume-of-Fluid, phase-field and no-slip molecular dynamics
+Thermal analysis of metal organic precursors for functional Cu doped NiOx hole transporting layer in inverted perovskite solar cells the role of solution combustion chemistry in Cu doped NiOx thin films processing
+A Level Set Method for the Simulation of Moving Contact Lines in Three Dimensions
+Curvature dependence of the interfacial tensions around nanoscale cylinder  Young's equation still holds
+Intrusion of liquids into liquid infused surfaces with nanoscale roughness
+Min-max theory for capillary surfaces
+Min-max construction of minimal surfaces with a fixed angle at the boundary
+Geometry of triple junctions during grain boundary premelting
+Young and Young--Laplace equations for a static ridge of nematic liquid crystal, and transitions between equilibrium states
+Drying-induced stresses in poroelastic drops on rigid substrates
+Quantifying Microstructural Evolution via Time-Dependent Reduced-Dimension Metrics Based on Hierarchical $n$-Point Polytope Functions
+A dual resolution phase-field solver for wetting of viscoelastic droplets
+Dynamics of two-dimensional liquid bridges
+Tuning contact angles of aqueous droplets on hydrophilic and hydrophobic surfaces by surfactants
+Spatters and Spills  Spreading Dynamics for Partially Wetting Droplets
+Capillary Condensation and Depinning Transitions in Open Slits
+A route to engineered high aspect-ratio silicon nanostructures through regenerative secondary mask lithography
+On stable capillary hypersurfaces with planar boundaries
+Slip Length Measurement in Rectangular Graphene Nanochannels with a 3D Flow Analysis
+Wetting transitions of polymer solutions  Effects of chain length and chain stiffness
+Changing the flow profile and resulting drying pattern of dispersion droplets via contact angle modification
+Zero-contact angle solutions to stochastic thin-film equations
+Model hierarchies and higher-order discretisation of time-dependent thin-film free boundary problems with dynamic contact angle
+Thermo-capillary convection in a two-fluid system
+Can one predict a drop contact angle?
+Spreading equilibria under mildly singular potentials  pancakes versus droplets
+Monte Carlo simulation of particle size separation in evaporating bi-dispersed colloidal droplets on hydrophilic substrates
+Edge Contact Angle, Capillary Condensation, and Meniscus Depinning
+Emergence of Structure in Columns of Grains and Elastic Loops
+Cold Atmospheric Plasma Sterilization of FFP3 Face Masks and Long-Term Material Effects
+Prediction of the capillary pressure of fluid surrounding a cylinder representing an idealized rock structure in porous media
+Wettability of graphene by molten polymers
+Local evaporation flux of deformed liquid drops
+Liquid Transfer for Viscoelastic Solutions
+Field-scale impacts of long-term wettability alteration in geological CO$_2$ storage
+Visualizing and Quantifying Wettability Alteration by Silica Nanofluids
+Liquid film dynamics with immobile contact line during meniscus oscillation
+Droplets on substrates with oscillating wettability
+Sequentially estimating the dynamic contact angle of sessile saliva droplets in view of SARS-CoV-2
+Contact Angle of an Evaporating Droplet of Binary Solution on a Super Wetting Surface
+Controlled oxygen plasma treatment of single-walled carbon nanotube films improves osteoblast cells attachment and enhances their proliferation
+Multiscale ultrafast laser texturing of marble for reduced surface wetting
+Gradient-dynamics model for liquid drops on elastic substrates
+Contact line pinning and de-pinning can modulate the rod-climbing effect
+The Cox-Voinov law for traveling waves in the partial wetting regime
+Modeling dynamic surface tension on surfactant-enhanced polydimethylsiloxane (PDMS)
+Volume-constraint local energy-minimizing sets in a ball
+Capillary condensation of saturated vapor in a corner formed by two intersecting walls
+Effects of withdrawal speeds on the structural, morphological, electrical, and optical properties of CuO thin films synthesized by dip-coating for CO2 gas sensing
+Capillary surfaces  stability, index and curvature estimates
+Flow profiles near receding three--phase contact lines  Influence of surfactants
+Enhancing Heat Transport in Multiphase Rayleigh-B¨¦nard Turbulence by Changing the Plate-Liquid Contact Angles
+The effect of isolated ridges and grooves on static menisci in rectangular channels
+Competition of Core-Shell and Janus Morphology in Alloy Nanoparticles  Insights From a Phase-Field Model
+Convergence of the Allen-Cahn equation with a nonlinear Robin Boundary Condition to Mean Curvature Flow with Contact Angle close to $90$¡ã
+Effective boundary conditions for dynamic contact angle hysteresis on chemically inhomogeneous surfaces
+Microscopic origin of the effect of substrate metallicity on interfacial free energies
+Unconditional bound-preserving and energy-dissipating finite-volume schemes for the Cahn-Hilliard equation
+Apparent Contact Angle of Droplets on Liquid Infused Surfaces  Geometric Interpretation
+Drop Interface and Airflow Unsteadiness in Wind-Forced Drop Depinning
+Synchronized oscillations in swarms of nematode Turbatrix aceti
+Droplet trapping in bendotaxis caused by contact angle hysteresis
+Particle contact dynamics as the origin for non-integer power expansion rheology in attractive suspension networks
+Ultra-Thin Lubricant-Infused Vertical Graphene Nanoscaffolds for High-Performance Dropwise Condensation
+A Thermodynamically Consistent Model and Its Conservative Numerical Approximation for Moving Contact Lines with Soluble Surfactants
+A fully Eulerian hybrid Immersed Boundary-Phase Field Model for contact line dynamics on complex geometries
+Breaking Cassie's law for condensation in a nano-patterned slit
+Fabrication of a nanoparticle-containing 3D porous bone scaffold with proangiogenic and antibacterial properties
+Implementing contact angle boundary conditions for second-order Phase-Field models of wall-bounded multiphase flows
+Slip flow regimes in nanofluidics  a universal superexponential model
+Measuring surface tensions of soft solids with huge contact-angle hysteresis
+Sustainable improvement of seeds vigor using dry atmospheric plasma priming  evidence through coating wettability, water uptake and plasma reactive chemistry
+Sliding down over a horizontally moving semi-sphere
+Taylor Dispersion in Thin Liquid Films of Volatile Mixtures  A Quantitative Model for Marangoni Contraction
+On the shape of air-liquid interfaces with surface tension that bound rigidly-rotating liquids in partially filled containers
+Helium-assisted, solvent-free electro-activation of 3D printed conductive carbon-polylactide electrodes by pulsed laser ablation
+Lattice Boltzmann simulation of three-phase flows with moving contact lines on curved surfaces
+Computational Fluid Dynamics Study of Taylor Flow in Microreactors Investigating the Effect of Surface Tension and Contact Angle on the Heatand Mass Transfer
+Unexpected Hydrophobicity on Self-Assembled Monolayers Terminated with Two Hydrophilic Hydroxyl Groups
+Cold-burst method for nanoparticle formation with natural triglyceride oils
+High temperature interaction between molten Ni50Al50 alloy and ZrB2 ultra-high temperature ceramics
+A Momentum-Conserving Implicit Material Point Method for Surface Energies with Spatial Gradients
+Meta-separation  complete separation of organic-water mixtures by structural property of metamaterial
+Tunable Wettability of Polymer Films by Partial Engulfment of Nanoparticles
+A consistent and conservative model and its scheme for $N$-phase-$M$-component incompressible flows
+Simulating volume-controlled invasion of a non-wetting fluid in volumetric images using basic image processing tools
+Dynamics of droplets under electrowetting effect with voltages exceeding the contact angle saturation threshold
+Shape of a sliding capillary contact
+Natural oscillations of a sessile drop on flat surfaces with mobile contact lines
+Lattice Boltzmann simulations of stochastic thin film dewetting
+Capillary Bridges on Liquid Infused Surfaces
+Nanomechanical characterisation of a water-repelling terpolymer coating of cellulosic fibres
+Quantification of the Impact of Water on the Wetting Behavior of Hydrophilic Ionic liquid  A Molecular Dynamics Study
+Molecular Insights into the Electrowetting Behavior of Aqueous Ionic Liquid
+Ultrasonic Oscillatory Two-phase Flow in Microchannels
+Wetting behavior of a colloidal particle trapped at a composite liquid-vapor interface of a binary liquid mixture
+Numerical modeling of bubble-particle interaction in a volume-of-fluid framework
+Molecular origin of the reduced phase stability and faster formation/dissociation kinetics in confined methane hydrate
+Steering droplets on substrates using moving steps in wettability
+Capillary-bridge Forces Between Solid Particles  Insights from Lattice Boltzmann Simulations
+The Prediction of Intrinsic Wettability without Young's Equation
+Molecular dynamics simulations of sodium nanoparticle deposition on magnesium oxide
+Stability of contact lines in fluids  2D Navier-Stokes flow
+Natural oscillations of a sessile drop  Inviscid theory
+Surface Energy of the Titan Aerosol Analog "Tholin"
+Surface Energy and Separation Mechanics of Droplet Interface Phospholipid Bilayers
+Composite states of wetting
+Evaporating droplets on inclined plant leaves and synthetic surfaces  experiments and mathematical models
+Singular Neumann boundary problems for a class of fully nonlinear parabolic equations in one dimension
+Observation of contact angle hysteresis due to inhomogeneous electric fields
+Drop spreading dynamics with a liquid needle drop deposition technique
+Interface modelling for {\it ab initio} evaluation of contact angle on a metallic surface
+Assessment of Physical Properties of Water Repellent Soils
+Investigation of the Impact of Cold Plasma Treatment on the Wettability of Medical Grade Polyvinylchloride
+Control of droplet evaporation on smooth chemical patterns
+Doped graphene oxide functionalization strategy for synthesis of nanocomposite membranes  electrospun coatings in biomedical field application
+Nucleate Boiling Simulation using Interface Tracking Method
+Theoretical analysis for dynamic contact angle hysteresis on chemically patterned surfaces
+Fluid flow structures in an evaporating sessile droplet depending on the droplet size and properties of liquid and substrate
+Modeling unsteady B¨¦nard-Marangoni instabilities in drying volatile droplets on a heated substrate
+Fingering instability in Marangoni spreading on a deep layer of polymer solution
+Controlled electrochemical functionalization of CNT fibers  structure-chemistry relations and application in current collector-free all-solid supercapacitors
+Investigations into the complete spreading dynamics of a viscoelastic drop on a spherical substrate
+Lifetime of sessile saliva droplets in the context of SARS-CoV-2
+Modifying Hydrophilic Properties of Polyurethane Acryl Paint Substrates by Atomic Layer Deposition and Self-Assembled Monolayers
+Electrowetting-Controlled Dropwise Condensation with Patterned Electrodes  Physical Principles, Modeling, and Application Perspectives for Fog Harvesting and Enhanced Heat Transfer
+Factors Controlling the Pinning Force of Liquid Droplets on Liquid Infused Surfaces
+Temperature Effect on Interactions of Oil Droplet with Water-wetted Shale Kerogen at Reservoir Temperatures  Linear Relationships between Temperature, Free Energy, and Contact Angle
+Systematic Characterization of Hydrophilized Polydimethylsiloxane
+Non-parametric mean curvature flow with prescribed contact angle in Riemannian products
+Interface evolution in phase transformation ruled by nucleation and growth
+Morphologies and dynamics of micro-droplet impact onto an idealised scratch
+How and When the Cassie-Baxter Droplet Starts to Slide on the Textured Surfaces
+Pore-Scale Transport and Two-Phase Fluid Structures in Fibrous Porous Layers  Application to Fuel Cells and Beyond
+Functional surfaces of laser-microstructured silicon coated with thermoresponsive PS/PNIPAM polymer blends  switching reversibly between hydrophilicity and hydrophobicity
+Amino acid-driven hydrophobization of alumina and production of particle stabilised foams in a broader pH range
+A Finite Element Method for Electrowetting on Dielectric
+Surface declination governed asymmetric sessile droplet evaporation
+Dynamic wetting failure in curtain coating by the Volume-of-Fluid method
+Wetting of two-component drops  Marangoni contraction versus autophobing
+When does Wenzel's extension of Young's equation for the contact angle of droplets apply? A density functional study
+Weierstrass' variational theory for analysing meniscus stability in ribbon growth processes
+Sweeping by Sessile Drop Coalescence
+Soft landing of metal clusters on graphite  a molecular dynamics study
+Transition in the Acid-Base Component of Surface Free Energy of Ice upon the Premelting of its Second Molecular Bilayer
+Likelihood of survival of coronavirus in a respiratory droplet deposited on a solid surface
+Characterization of wetting using topological principles
+An accurate methodology for surface tension modeling in OpenFOAM
+Optimal Control of Droplets on a Solid Surface using Distributed Contact Angles
+A Comparative Study of the Drying Evolution and Dried Morphology of two Globular Protein and De-ionized water Solutions
+Quantifying surface wetting properties using droplet probe AFM
+Enhanced contact angle hysteresis of salt aqueous solution on graphite surface by a tiny amount of cation
+Wetting Fronts in Porous Media
+Dependence of the surface tension and contact angle on the temperature, as described by the diffuse-interface model
+On the singular nature of the elastocapillary ridge
+Azimuthal and polar anchoring energies of aligning layers structured by nonlinear laser lithography
+Evaporation of sessile ethanol-water droplets on a highly inclined heated surface
+Conductance switching at the nanoscale of diarylethene derivatives self-assembled monolayers on La$_{0.7}$Sr$_{0.3}$MnO$_3$
+Three-phase fluid coexistence in heterogenous slits
+A geometry-based model for spreading drops applied to drops on a silicon wafer and a swellable polymer brush film
+(Super)Spreading and drying of trisiloxane-laden quantum dot nanofluids on hydrophobic surfaces
+An energy-stable parametric finite element method for simulating solid-state dewetting
+A soft robotic tongue to develop solutions to manage swallowing disorders
+An Energy-stable Finite Element Method for the Simulation of Moving Contact Lines in Two-phase Flows
+Molecular dynamics simulation study of a polymer droplet transport over an array of spherical nanoparticles
+Surface Modifications Caused by Cold Atmospheric Plasma Sterilization Treatment
+Optimal Control of Sliding Droplets using the Contact Angle Distribution
+Wetting Properties of Graphene Aerogels
+Morphology of Evaporating Sessile Microdroplets on Lyophilic Elliptical Patches
+Adhesive and non-adhesive contact of a rigid indenter and a thin elastic layer with surface tension
+Entrapment and Dissolution of Microbubbles Inside Microwells
+Existence and uniqueness of solutions to the constant mean curvature equation with nonzero Neumann boundary data in product manifold $M^{n}\times\mathbb{R}$
+Shape of pendant droplets under a tilted surface
+Viscoelastic Liquid Bridge Breakup and Liquid Transfer Between two Surfaces
+Strong solutions to the Stefan problem with Gibbs-Thomson correction and boundary contact
+Wettability and surface energy of parylene F
+Bubble entrainment by a sphere falling through a horizontal soap foam
+Probing the concept of line tension down to the nanoscale
+Directional motion of vibrated sessile drops   a quantitative study
+A criterion for the pinning and depinning of an advancing contact line on a cold substrate
+Symmetry-breaking morphological transitions at chemically nanopatterned walls
+Crystal phase engineering of self-catalyzed GaAs nanowires using RHEED diagram
+Enhancement of Water Repellence by Hierarchical Surface Structures Integrating Micro-dome and Micro-pillar Arrays with Nanoporous Coatings
+Gravitational effect on the advancing and receding angle of a 2D Cassie-Baxter droplet on a textured surface
+Soluto-thermo-hydrodynamics influenced evaporation of sessile droplets
+Numerical simulations of self-diffusiophoretic colloids at fluid interfaces
+Cassie-Wenzel transition of a binary liquid mixture on a nano-sculptured surface
+Broadband and wide-temperature-range thermal emitter with super-hydrophobicity based on oxidized high-entropy film
+Entropy-stable discontinuous Galerkin approximation with summation-by-parts property for the incompressible Navier-Stokes/Cahn-Hilliard system
+Transit Signatures of Inhomogeneous Clouds on Hot Jupiters  Insights From Microphysical Cloud Modeling
+A unified description of hydrophilic and superhydrophobic surfaces in terms of the wetting and drying transitions of liquids
+Effect of line tension on axisymmetric nanoscale capillary bridges at the liquid-vapor equilibrium
+Linking continuum-scale state of wetting to pore-scale contact angles in porous media
+A Phase Field Approach to Compressible Droplet Impingement
+Wetting of an annular liquid in a capillary tube
+Evaporation of sessile water droplets on horizontal and vertical bi-phobic patterned surfaces
+Global stability of traveling waves for an area preserving curvature flow with contact angle condition
+Electrically controlled localized charge trapping at amorphous fluoropolymer-electrolyte interfaces
+Simple Model for Estimation of the Influence of Velocity on Advancing Dynamic Contact Angles
+Spline-based Interface Modeling and Optimization (SIMO) for Surface Tension and Contact Angle Measurements
+Mapping micron-scale wetting properties of superhydrophobic surfaces
+The effective shear and dilatational viscosity of a particle-laden interface in the dilute limit
+Thermodynamic stability of droplets, bubbles and thick films in open and closed pores
+Spreading of aqueous droplets with common and superspreading surfactants. A molecular dynamics study
+Evaporation of dilute sodium dodecyl sulfate droplets on a hydrophobic substrate
+Gradient Induced Droplet Motion Over Soft Solids
+Scaling of wetting and pre-wetting transitions on nano-patterned walls
+A parametric finite element method for solid-state dewetting problems in three dimensions
+Equilibrium and stability of two-dimensional pinned drops
+Impact of Time-Dependent Wettability Alteration on the Dynamics of Capillary Pressure
+Implementation of contact angles in the pseudopotential lattice Boltzmann simulations with curved boundaries
+The interaction of inner and outer surface corners during spontaneous wetting
+Novel method for determination of contact angle of highly volatile liquids
+Propagation of a Mean Curvature Flow in a Cone
+Spreading on viscoelastic solids  Are contact angles selected by Neumann's law?
+Molding Wetting by Laser-Induced Nanostructures
+Early stages of spreading and sintering
+Dynamics and stability of sessile drops with contact points
+Evaporation of ethanol-water droplet at different substrate temperatures and compositions
+The thermo-wetting instability driving Leidenfrost film collapse
+Contact line depinning from sharp edges
+Contact line advection using the geometrical Volume-of-Fluid method
+Stability analysis for stationary solutions of the Mullins-Sekerka flow with boundary contact
+Kinetic Monte Carlo and hydrodynamic modelling of droplet dynamics on surfaces, including evaporation and condensation
+Spontaneous shrinkage of droplet on wetting surface in phase-field model
+On a thermodynamic framework for developing boundary conditions for Korteweg fluids
+Thin films of PS/PS-b-PNIPAM and PS/PNIPAM polymer blends with tunable wettability
+Tuning contact line dynamics and deposition patterns in volatile liquid mixtures
+Pore-scale direct numerical simulation of Haines jumps in a porous media model
+Statics and Dynamics of Polymeric Droplets on Chemically Homogeneous and Heterogeneous Substrates
+On-demand contact line pinning during droplet evaporation
+Geometric and chemical non-uniformity may induce the stability of more than one wetting state in the same hydrophobic surface
+Soft electrowetting
+Mesoscale simulation of soft particles with tunable contact angle in multi-component fluids
+Tailoring superhydrophobic ZnO nanorods on Si pyramids with enhanced visible range antireflection property
+Nonlinear force balance at moving contact lines
+Wetting boundaries for ternary high density ratio Lattice Boltzmann Method
+Improved Self-cleaning Properties of an Efficient and Easy to Scale up TiO2 Thin Films Prepared by Adsorptive Self-Assembly
+Multifaceted design optimisation for superomniphobic surfaces
+A Combined Computational and Experimental Investigation on Evaporation of a Sessile Water Droplet on a Heated Hydrophilic Substrate
+Comparison of the lateral retention forces on sessile, pendant, and inverted sessile drops
+Theoretical insights into the hydrophobicity of low index CeO2 surfaces
+Reduction and simultaneous doping of graphene oxide to repel LDL in treatment of atherosclerosis disease
+A general model for dynamic contact angle over full speed regime
+Weighted elliptic estimates for a mixed boundary system related to the Dirichlet-Neumann operator on a corner domain
+Fine Tuning Hydrophobicity of Counter-Anions to Tailor Pore Size in Porous All-Poly(ionic liquid) Membranes
+A reduction-to-absurdity approach using absolutely smooth solid surfaces to unveil the origins of wetting
+Nanoparticles modulate contact angle hysteresis in electrowetting
+Directional spreading of a viscous droplet on a conical fibre
+Water waves problem with surface tension in a corner domain II  the local well-posednes
+Droplets capped with an elastic film can be round, elliptical, or nearly square
+Slip length dependent propulsion speed of catalytic colloidal swimmers near walls
+Pitcher Plant Inspired Biomimetic Liquid Infused Slippery Surface Using Taro Leaf
+Lattice-Boltzmann simulations of electrowetting phenomena
+Four stages of droplet spreading on a spherical substrate and in a spherical cavity -Surface tension vs line tension and viscous dissipation vs frictional dissipation-
+Characterizing Surface Wetting and Interfacial Properties using Enhanced Sampling (SWIPES)
+Self-cleaning of hydrophobic rough surfaces by coalescence-induced wetting transition
+Pore-scale Modelling of Gravity-driven Drainage in Disordered Porous Media
+Construction and calibration of a goniometer to measure contact angles and calculate the surface free energy in solids with uncertainty analysis
+A lattice Boltzmann method for thin liquid film hydrodynamics
+A Blow-up Criterion for the Curve Diffusion Flow with a Contact Angle
+Wetting of ferrofluids  phenomena and control
+Existence of non-convex traveling waves for surface diffusion of curves with constant contact angles
+Short Time Existence for the Curve Diffusion Flow with a Contact Angle
+A Kinematic Evolution Equation for the Dynamic Contact Angle and some Consequences
+Contact angle hysteresis effects on a drop sitting on an incline plane
+Transition rates for slip-avalanches in soft athermal disks under quasi-static simple shear deformations
+Incorporation of magnetic nanoparticles into lamellar polystyrene-b-poly(n-butyl methacrylate) diblock copolymer films  influence of the chain end-groups on nanostructuration
+Comparison of Energy Stable Simulation of Moving Contact Line Problems using a Thermodynamically Consistent Cahn-Hilliard Navier-Stokes Model
+Controlling shedding characteristics of condensate drops using electrowetting
+Bond Stiffness, not Chain Length, Dictates Polymer Infiltration into Nanopores
+Electrostatic interaction of particles trapped at fluid interfaces  Effects of geometry and wetting properties
+Bernstein Functions and Radial Limits of Prescribed Mean Curvature Surfaces
+A versatile lattice Boltzmann model for immiscible ternary fluid flows
+Reliable Determination of Contact Angle from the Height and Volume of Sessile Drops
+Effect of substrate topography, material wettability and dielectric thickness on reversible electrowetting
+Multi-Ring Deposition Pattern of Drying Droplets
+A macroscopic model for sessile droplet evaporation on a flat surface
+Analysis of an Evaporating Sessile Droplet on a Non-Wetted Surface
+Capillary Forces on a Small Particle at a Liquid-Vapor Interface  Theory and Simulation
+Convergence of the Allen-Cahn Equation to the Mean Curvature Flow with $90^\circ$-Contact Angle in 2D
+Elastic capsules at liquid-liquid interfaces
+Solid-state dewetting on curved substrates
+Continuous condensation in nanogrooves
+The critical pressure for microfiltration of oil-in-water emulsions using slotted-pore membranes
+A generalized Young's equation to bridge a gap between the experimentally measured and the theoretically calculated line tensions
+Effective slip over partially filled microcavities and its possible failure
+Controlling wetting with electrolytic solutions  phase-field simulations of a droplet-conductor system
+Solvation effects and contact angle saturation in electrowetting
+Partial wetting of thin solid sheets under tension
+Translating surfaces of the non-parametric mean curvature flow in Lorentz manifold $M^{2}\times\mathbb{R}$
+Ideal wet two-dimensional foams and emulsions with finite contact angle
+Microscopic Details of a Fluid/Thin Film Triple Line
+Controlling breath figure patterns on PDMS by concentration variation of ethanol-methanol binary vapors
+A Modified Smoothed Particle Hydrodynamics Approach for Modelling Dynamic Contact Angle Hysteresis
+Lattice Boltzmann modeling of two-phase flow in macroporous media with application to porous asphalt
+3D reconstruction of dynamic liquid film shape by optical grid deflection method
+Forced dynamic dewetting of structured surfaces  Influence of surfactants
+Delayed coalescence of surfactant containing sessile droplets
+The role of surface tension gradient in determining microscopic dynamic contact angle
+Modified Kelvin equations for capillary condensation in narrow and wide grooves
+The paradox of contact angle selection on stretched soft solids
+Heterogeneous Nucleation of a Droplet Pinned at a Chemically Inhomogeneous Substrate  A Simulation Study of the Two-dimensional Ising Case
+Equilibrium contact angle and adsorption layer properties with surfactants
+Do the contact angle and line tension of surface-attached droplets depend on the radius of curvature?
+Quasiperiodic granular chains and Hofstadter butterflies
+Elastowetting of Soft Hydrogel Spheres
+Symmetric wetting heterogeneity suppresses fluid displacement hysteresis in granular piles
+Wetting of Flat Gradient Surfaces
+Contact angle hysteresis and oil film lubrication in electrowetting with two immiscible liquids
+Surface Wetting Study via Pseudocontinuum Modeling
+Magnetic Field Inspired Contact Angle Hysteresis Drives Floating Polyolefin Rafts
+Scaling law of the drag force in dense granular media
+Dynamic contact angle hysteresis in liquid bridges
+Optimal control in ink-jet printing via instantaneous control
+Two-component Marangoni-contracted droplets  friction and shape
+Dynamical density functional theory for the evaporation of droplets of nanoparticle suspension
+Colloidal particle adsorption at water/water interfaces with ultra-low interfacial tension
+Surface energy of strained amorphous solids
+Wetting properties of structured interfaces composed of surface-attached spherical nanoparticles
+Two-component self-contracted droplets  long-range attraction and confinement effects
+An energy-based equilibrium contact angle boundary condition on jagged surfaces for phase-field methods
+Theoretical model of a finite force at the moving contact line
+Finite element setting for fluid flow simulations with natural enforcement of capillary effects
+Elastic Wannier-Stark Ladders and Bloch Oscillations in 1D Granular Crystals
+Wettability of reentrant surfaces  a global energy approach
+The Navier-slip thin-film equation for 3D fluid films  existence and uniqueness
+Convexity splitting in a phase field model for surface diffusion
+Molecular Origin of Contact Line Friction in Dynamic Wetting
+Direct Measurement of Interparticle Forces of Titan Aerosol Analogs ("Tholin") Using Atomic Force Microscopy
+Topography- and topology-driven spreading of non-Newtonian power-law liquids on a flat and a spherical substrate
+When is a surface foam-phobic or foam-philic?
+A Computational Multiscale Model for Contact Line Dynamics
+Water waves problem with surface tension in a corner domain I  A priori estimates with constrained contact angle
+A Floating Cylinder on An Unbounded Bath
+Edge contact angle and modified Kelvin equation for condensation in open pores
+Level-set method for accurate modeling of two-phase immiscible flow with moving contact lines
+Finite Element Lattice Boltzmann Simulations of Contact Line Dynamics
+Fabrication and properties of L-arginine-doped PCL electrospun composite scaffolds
+Contact angles of liquid drops subjected to a rough boundary
+Droplet spreading  Role of characteristic length scales and modified disjoining pressure
+Stability of Serrin's Problem and Dynamic Stability of a Model for Contact Angle Motion
+Stability of Surface Nanobubbles  A Molecular Dynamics Study
+Line tension and wettability of nanodrops on curved surfaces
+Spreading law of non-Newtonian power-law liquids on a spherical substrate by energy balance approach
+Lattice Boltzmann simulation of viscous fingering of immiscible displacement in a channel using an improved wetting scheme
+A free-boundary problem with moving contact points
+Liquid droplets on a free-standing glassy membrane  deformation through the glass transition
+Low temperature pressureless immediate sintering of novel nanostructured WC/Co/NiCrSiB-alloy cemented carbide
+Dynamics of anchored oscillating nanomenisci
+Formation of surface nanodroplets under controlled flow conditions
+3D spherical-cap fitting procedure for (truncated) sessile nano- and micro-droplets & -bubbles
+Modelling the evaporation of nanoparticle suspensions from heterogeneous surfaces
+A Variational Characterization of Fluid Sloshing with Surface Tension
+Drop pattern resulting from the breakup of a bidimensional grid of liquid filaments
+Extreme control of impulse transmission by cylinder-based nonlinear phononic crystals
+Wetting States of Two-Dimensional Drops under Gravity
+Contact angle selection for interfaces in growing domains
+Energy invariance in capillary systems
+Spreading law on a completely wettable spherical substrate  The energy balance approach
+Stability of receding traveling waves for a fourth order degenerate parabolic free boundary problem
+Effects of geometric confinement on a droplet between two parallel planes
+Influence of magnetic field on evaporation of a ferrofluid droplet
+Transition in a numerical model of contact line dynamics and forced dewetting
+Rayleigh-Taylor instability for the two-phase Navier-Stokes equations with surface tension in cylindrical domains
+Wetting and dewetting processes in the axial retraction of liquid filaments
+Organic-inorganic Copper(II)-based Material  a Low-Toxic, Highly Stable Light Absorber beyond Organolead Perovskites
+Capillary force on a tilted cylinder  AFM measurements
+Statics and dynamics of liquid barrels in wedge geometries
+Demonstrating an in-situ topological band transition in cylindrical granular chains
+The roles of wettability and surface tension in droplet formation during inkjet printing
+Contact Angle Measurement in Lattice Boltzmann Method
+Buckling in Armored Droplets
+Nonparametric mean curvature type flows of graphs with contact angle conditions
+Coalescence of immersed droplets on a substrate
+A Capillary Surface with No Radial Limits
+Wetting in the presence of the electric field  The classical density functional theory study for a model system
+Highly sticky surfaces made by electrospun polymer nanofibers
+A Generalization of "Existence and Behavior of the Radial Limits of a Bounded Capillary Surface at a Corner"
+Dynamic capillary phenomena using Incompressible SPH
+Transforming Single Domain Magnetic CoFe2O4 Nanoparticles from Hydrophobic to Hydrophilic By Novel Mechanochemical Ligand Exchange
+Controlling droplet spreading with topography
+Liquid Drops on a Rough Surface
+Minimizing movements for mean curvature flow of droplets with prescribed contact angle
+Reactive infiltration  identifying the role of chemical reactions, capillarity, viscosity and gravity
+A priori estimates for water waves with emerging bottom
+Effects of slippage on the dewetting of a droplet
+Wetting of Water on Graphene
+Using Microfluidic Device to Study Rheological Properties of Heavy Oil
+Dynamics of wetting explored with inkjet printing
+Contact angle entropy and macroscopic friction in non-cohesive two dimensional granular packings
+Chemical-potential-based Lattice Boltzmann Method for Nonideal Fluids
+Wall-bounded multiphase flows of N immiscible incompressible fluids  consistency and contact-angle boundary condition
+Curvature Instability of Membranes near Rigid Inclusions
+Critical Capillary Number of Interfacial Film Displacement in a Capillary Tube
+A Structurally Self-Assembled Peptide Nano-Architecture by One-Step Electrospinning
+An Alternative Method to Implement Contact Angle Boundary Condition on Immersed Surfaces for Phase-Field Simulations
+Contact angles of a drop pinned on an incline
+Asymptotic expansions of the contact angle in nonlocal capillarity problems
+Modified Wenzel and Cassie equations for wetting on rough surfaces
+Size-dependent contact angle, and wetting and drying transition of a droplet adsorbed on to a spherical substrate  Line tension effect
+Formation of Curved Micron-Sized Single Crystals
+Formation, dissolution and properties of surface nanobubbles
+Influence of humidity on the tribo-electric charging and segregation in shaken granular media
+The Impact of Surface Geometry, Cavitation, and Condensation on Wetting Transitions  Posts and Reentrant Structures
+A singular perturbation limit of diffused interface energy with a fixed contact angle condition
+Pinning-depinning mechanism of the contact line during evaporation on chemically patterned surfaces  A lattice Boltzmann study
+Free-energy barrier of filling a spherical cavity in the presence of line tension  Implication to the energy barrier between the Cassie and Wenzel state on a superhydrophobic surface with spherical cavities
+A metric for wettability at the nanoscale
+Applying Contact Angle to a 2D Multiphase Smoothed Particle Hydrodynamics Model
+A Unified Approach for Beam-to-Beam Contact
+Critical Drying of Liquids
+The Cassie-Wenzel transition of fluids on nanostructured substrates  Macroscopic force balance versus microscopic density-functional theory
+Deformation of an Elastic Substrate Due to a Resting Sessile Droplet
+Singular effective slip length for longitudinal flow over a dense bubble mattress
+Transferred plasma jet from a dielectric barrier discharge for processing of poly(dimethylsiloxane) surfaces
+On the influence of the intermolecular potential on the wetting properties of water on silica surfaces
+A fixed contact angle condition for varifolds
+Stick-jump mode in surface droplet dissolution
+A semi-analytical method to estimate the slip length of spreading cap-shaped droplets using Cox theory
+Dynamics of sessile drops. Part 3. Theory of forced oscillations
+Tuning the receding contact angle on hydrogels by addition of particles
+Monostable Super Antiwettability
+On the Comparability of Chemical Structure and Roughness of Nanochannels in Altering Fluid Slippage
+Preparation and characterization of ultra-hydrophobic calcium carbonate nanoparticles
+Understanding polyethylene surface functionalization by an atmospheric He-O$_2$ plasma through combined experiments and simulation
+Competitive and synergistic effects between excimer VUV radiation and O radicals on the etching mechanisms of polyethylene and fluoropolymer surfaces treated by atmospheric He-O$_2$ post-discharge
+PTFE surface etching in the post-discharge of a RF scanning plasma torch  evidence of ejected fluorinated species
+Wetting theory for small droplets on textured solid surfaces
+Etching Processes of Polytetrafluoroethylene Surfaces Exposed to He and He-O2 Atmospheric Post-discharges
+Reactivity of water vapor in an atmospheric pressure DBD -Application to LDPE surfaces
+LDPE Surface Modifications Induced by Atmospheric Plasma Torches with Linear and Showerhead Configurations
+Low-density polyethylene films treated by an atmospheric Ar--O2 post-discharge  functionalization, etching, degradation and partial recovery of the native wettability state
+Synthesis and texturization processes of (super)-hydrophobic fluorinated surfaces by atmospheric plasma
+Line tension and morphology of a sessile droplet on a spherical substrate
+Apparent Contact Angle and Contact Angle Hysteresis on Liquid Infused Surfaces
+Radial Limits of Capillary Surfaces at Corners
+Line tension and morphology of a droplet and a bubble attached to the inner wall of a spherical cavity
+Influence of aqueous electrolytes on electrochemical performance of vertical graphene nanosheets supercapacitor electrode
+Numerical analysis of Pickering emulsion stability  insights from ABMD simulations
+Deviation of viscous drops at chemical steps
+Stability of contact lines in fluids  2D Stokes Flow
+Uniting Superhydrophobic, Superoleophobic and Lubricating Fluid Infused Slippery Behavior on Copper Oxide Nano-structured Substrates
+A computational study of high-speed microdroplet impact onto a smooth solid surface
+Enhanced Slippery Behavior and Stability of Lubricating Fluid Infused Nanostructured Surfaces
+Monostable Superantiwettability
+A dynamical systems approach for the contact-line singularity in thin-film flows
+Nanodroplets Impacting on Graphene
+Stochastic Rotation Dynamics simulations of wetting multi-phase flows
+Bubble spreading during the boiling crisis  modelling and experimenting in microgravity
+Gas spreading on a heated wall wetted by liquid
+Relaxation of nonspherical sessile drops towards equilibrium
+Boiling crisis as inhibition of bubble detachment by the vapor recoil force
+Quasi-static relaxation of arbitrarily shaped sessile drops
+Droplet spreading on rough surfaces  tackling the contact line boundary condition
+Boiling crisis and non-equilibrium drying transition
+Computational Study of Bouncing and Non-bouncing Droplets Impacting on Superhydrophobic Surfaces
+How Nanobubbles Nucleate at a Hydrophobic/Water Interface
+Wetting dynamics of a collapsing fluid hole
+Drops with non-circular footprints
+On the nature of wettability of van der Waals heterostructures
+Phase-feld theory of multi-component incompressible Cahn-Hilliard liquids
+Wetting and Diffusion of Water on Pristine and Strained Phosphorene
+Wettability and Swelling Behavior of a Weak Polybasic Brush  Influence of Divalent Salts in the Environment
+Ternary Free Energy Lattice Boltzmann Model with Tunable Surface Tensions and Contact Angles
+A Generalized Electrowetting Equation  Its Derivation and Consequences
+Bifurcation analysis of the behavior of partially wetting liquids on a rotating cylinder
+Phenomenological Model of Wetting Charged Dielectric Surfaces and its Testing with Plasma-Treated Polymer Films and Inflatable Balloons
+Towards Accurate Modeling of Moving Contact Lines
+Contact angle saturation in electrowetting  Injection of ions into the surrounding media
+Mechanical and Surface Characterization of Diamond-Like Carbon Coatings onto Polymeric Substrate
+A numerical approach for the direct computation of flows including fluid-solid interaction  modeling contact angle, film rupture, and dewetting
+Ground state patterns and phase transition of spin-1 Bose-Einstein condensates via ¦£-convergence theory
+Wettability stabilizes fluid invasion into porous media via nonlocal, cooperative pore filling
+Characteristics of dynamic contact-angle in presence of surface-charge
+Surface and Mechanical studies of Bismaleimide coatings
+Fluid contact angle on solid surfaces  role of multiscale surface roughness
+Filling transitions on rough surfaces  inadequacy of Gaussian surface models
+The Role of Contact Angle Hysteresis for Fluid Transport in Wet Granular Matter
+Obtaining superhydrophobicity using commercial razor blades
+On the regularity for the Navier-slip thin-film equation in the perfect wetting regime
+Investigation of slippery behaviour of lubricating fluid coated smooth hydrophilic surfaces
+Moving contact line dynamics  from diffuse to sharp interfaces
+Universal contact-line dynamics at the nanoscale
+The importance of chemical potential in the determination of water slip in nanochannels
+Contact angle of sessile drops in Lennard-Jones systems
+Drop deposition on surfaces with contact-angle hysteresis  Liquid-bridge stability and breakup
+Wetting and phase separation in soft adhesion
+Dynamic wettability alteration in immiscible two-phase flow in porous media  Effect on transport properties and critical slowing down
+Slip-Mediated Dewetting of Polymer Microdroplets
+Electrowetting on dielectrics on lubricating fluid based slippery surfaces with negligible hysteresis
+Line-tension-induced scenario of heterogeneous nucleation on a spherical substrate and in a spherical cavity
+Catenoid stability with a free contact line
+A new algorithm for contact angle estimation in molecular dynamics simulations
+Influence of Molecular Organization on the Electrical Characteristics of ¦Ð-conjugated Self-assembled Monolayers
+Regimes of Wetting Transitions on Superhydrophobic Textures Conditioned by Energy of Receding Contact Lines
+Quantifying density fluctuations in water at a hydrophobic surface  evidence for critical drying
+Treatment of PDMS surfaces using pulsed DBD plasmas  comparing the use of different gases and its influence on adhesion
+Three-phase contact line and line tension of electrolyte solutions in contact with charged substrates
+On fundamental mechanisms in dye sensitized solar cells through the behaviour of different mesoporous titanium dioxide films
+Super-Hydrophobic Multi-Walled Carbon Nanotube Coatings for Stainless Steel
+Nanoscale fluid structure of liquid-solid-vapour contact lines for a wide range of contact angles
+Elastic Properties of Liquid Surfaces Coated with Colloidal Particles
+Quantification and Physics of Cold Plasma Treatment of Organic Liquid Surfaces
+Drag and diffusion coefficients of a spherical particle attached to a fluid interface
+Wetting morphologies on an array of fibers of different radii
+Curvature Capillary Migration of Microspheres
+Exploiting the Hierarchical Morphology of Single-Walled and Multi-Walled Carbon Nanotube Films for Highly Hydrophobic Coatings
+Liquid drops on a surface  using density functional theory to calculate the binding potential and drop profiles and comparing with results from mesoscopic modelling
+Contact Angle Adjustment in Equation of States Based Pseudo-Potential Model
+Lattice Boltzmann modeling of boiling heat transfer  The boiling curve and the effects of wettability
+Quantum vacuum photon-modes and superhydrophobicity
+Design of a robust superhydrophobic surface  thermodynamic and kinetic analysis
+Anisotropic interfacial tension, contact angles, and line tensions  A graphics-processing-unit-based Monte Carlo study of the Ising model
+Line tension and reduction of apparent contact angle associated with electric double layers
+Non-Equilibrium Gibbs' Criterion for Completely Wetting Volatile Liquids
+Contact angles in the pseudopotential lattice Boltzmann modeling of wetting
+Computation of impinging droplet with soluble surfactants and dynamic contact angle
+Vibrations of Sessile Drops of Soft Hydrogels
+The Local Compressibility of Liquids near Non-Adsorbing Substrates  A Useful Measure of Solvophobicity and Hydrophobicity?
+Capillary Contact Angle in a Completely Wet Groove
+A volume of fluid method for simulating fluid/fluid interfaces in contact with solid boundaries
+Hydrophilization of Liquid Surfaces by Plasma Treatment
+Layering Transitions and Solvation Forces in an Asymmetrically Confined Fluid
+Determining superhydrophobic surfaces from an expanded Cassie Baxter equation describing simple wettability experiments
+Sharp interface model for solid-state dewetting problems with weakly anisotropic surface energies
+Dependence of fluid flows in an evaporating sessile droplet on the characteristics of the substrate
+Heterogeneous nucleation of/on nanoparticles  a density functional study using the phase-field crystal model
+Electrically modulated dynamic spreading of drops on soft surfaces
+Detachment Energies of Spheroidal Particles from Fluid-Fluid Interfaces
+Droplets move over viscoelastic substrates by surfing a ridge
+Fluid structure in the immediate vicinity of an equilibrium three-phase contact line and assessment of disjoining pressure models using density functional theory
+Phase-Field Modeling of Solidification in Light-Metal Matrix Nanocomposites
+Gradient Estimates of Mean Curvature Equations with Neumann Boundary Condition
+Stable capillary hypersurfaces in a wedge
+Theoretical study of line and boundary tension in adsorbed colloid-polymer mixtures
+Self-similar solutions for a fractional thin film equation governing hydraulic fractures
+The influence of short range forces on melting along grain boundaries
+Giant Slip at Liquid-Liquid Interfaces Using Hydrophobic Ball Bearings
+Capillary Adhesion at the Nanometer Scale
+The geometry and wetting of capillary folding
+Surface Energy Engineering for Tunable Wettability through Controlled Synthesis of MoS2
+Local Well-Posedness for Volume-Preserving Mean Curvature and Willmore Flows with Line Tension
+Hierarchical Nano-Porous Layer with Persistent Superhydrophilicity and High Transparency Etched onto Silicate Glass
+Contact Angle Hysteresis on Superhydrophobic Stripes
+Solid phase properties and crystallization in simple model systems
+Trapping energy of a spherical particle on a curved liquid interface
+Shedding new light on the mystery of wetting on soft solids
+Drops on soft solids  Free energy and double transition of contact angles
+Effective Medium Theory for Drag Reducing Micro-patterned Surfaces in Turbulent Flows
+Density functional theory of electrowetting
+Wetting Boundary Conditions in Phase-Field-Based Simulation of Binary Fluids  Some Comparative Studies and New Development
+On Uniqueness of Weak Solutions for the Thin-Film Equation
+Relaxation of surface tension in the liquid-solid interfaces of Lennard-Jones liquids
+Sticking around  an up-close look at drop adhesion
+The contact line behaviour of solid-liquid-gas diffuse-interface models
+Pervasive liquid metal direct writing electronics with roller-ball pen
+Surface roughness analysis of the hydrophilic SiO_2/TiO_2 nano bi-layers by Level crossing approach
+Is superhydrophobicity robust with respect to disorder?
+Surface tension and contact with soft elastic solids
+On numerical modelling of contact lines in fluid flows
+Marangoni convection in an evaporating droplet  Analytical and numerical descriptions
+A comparison of slip, disjoining pressure, and interface formation models for contact line motion through asymptotic analysis of thin two-dimensional droplet spreading
+How geometry determines the coalescence of low-viscosity drops
+Numerical Study of Drop Motion on a Surface with Wettability Gradient and Contact Angle Hysteresis
+A Particle-Water Based Model for Water Retention Hysteresis
+The influence of van der Waals forces on droplet morphological transitions and solvation forces in nanochannels
+Existence of nonparametric solutions for a capillary problem in warped products
+Heterogeneous nucleation on a completely wettable substrate
+Density functional study of complete, first-order and critical wedge filling transitions
+Oil droplet behavior at a pore entrance in the presence of crossflow  Implications for microfiltration of oil-water dispersions
+Modeling of multiple three phase contact lines of liquid droplets on geometrically patterned surfaces  continuum and mesoscopic analysis
+Measuring contact angle and meniscus shape with a reflected laser beam
+Lennard-Jones systems near solid walls  Computing interfacial free energies from molecular simulation methods
+Condensation and jumping relay of droplets on lotus leaf
+Stick-Slip Sliding of Water Drops on Chemically Heterogeneous Surfaces
+Monte Carlo Tests of Nucleation Concepts in the Lattice Gas Model
+Electrowetting of a soap bubble
+Study of the 4He crystal surface
+General Phase-Field Model with Stability Requirements on Interfaces in $N$-Dimensional Phase-Field Space
+Sessile drops in microgravity
+Control of Surface Wettability via Strain Engineering
+Theory of Nucleation in Phase-separating Nanoparticles
+Lattice Boltzmann simulations of apparent slip and contact angle in hydrophobic micro-channels
+Wetting of soap bubbles on hydrophilic, hydrophobic and superhydrophobic surfaces
+PTFE treatment by remote atmospheric Ar/O2 plasmas  a simple reaction scheme model proposal
+Interfaces and wetting transition on the half plane. Exact results from field theory
+Hydrodynamics of air entrainment by moving contact lines
+Topology optimization of robust superhydrophobic surfaces
+Modelling unidirectional liquid spreading on slanted microposts
+On solutions of the reduced model for the dynamical evolution of contact lines
+Finite-time singularities in the dynamical evolution of contact lines
+Wicking in a powder
+The characterization of wettability of substrates by liquid nanodrops
+Interfaces of Propylene Carbonate
+Stokes flow in a drop evaporating from a liquid subphase
+Wetting dynamics on lyophilic solid surfaces patterned by lyophobic islands
+Dynamic Stability of Equilibrium Capillary Drops
+Droplets on liquids and their long way into equilibrium
+Stationary solutions of liquid two-layer thin film models
+Green's function for symmetric loading of an elastic sphere with application to contact problems
+Water-oil drainage dynamics in oil-wet random microfluidic porous media analogs
+Dynamic contact angle of a liquid spreading on an unsaturated wettable porous substrate
+Tailoring surface interactions, contact angles, drop topologies and self-assembly using laser irradiation
+Universal deformation of soft substrates near a contact line and the direct measurement of solid surface stresses
+Parameter passing between Molecular Dynamics and continuum models for droplets on solid substrates - The static case
+Driving Droplet by Scale Effect on Microstructured Hydrophobic Surfaces
+Electrowetting on a semiconductor
+Theory of Pendular Rings Revisited
+Anisotropic imbibition on surfaces patterned with polygonal posts
+Symmetric and Asymmetric Coalescence of Drops on a Substrate
+Droplet spreading and pinning on heterogeneous substrates
+Slip or not slip? A methodical examination of the interface formation model using two-dimensional droplet spreading on a horizontal planar substrate as a prototype system
+Electric double layer structure close to the three-phase contact line in an electrolyte wetting a solid substrate
+Buckling instability of squeezed droplets
+Microdroplet impact at very high velocity
+Force propagation in isostatic granular packs
+Contact angles on a soft solid  from Young's law to Neumann's law
+Structure and Diffusion of Nanoparticle Monolayers Floating at Liquid/Vapor Interfaces  A Molecular Dynamics Study
+Molecular dynamics simulations of the contact angle between water droplets and graphite surfaces
+Darcy's flow with prescribed contact angle -- Well-posedness and lubrication approximation
+Wetting on Random Roughness  the Ubiquity of Wenzel Prewetting
+Simulation of fluid-solid coexistence in finite volumes  A method to study the properties of wall-attached crystalline nuclei
+Liquid drops sliding down an inclined plane
+Static wetting on deformable substrates, from liquids to soft solids
+Finite Element Simulation of Dynamic Wetting Flows as an Interface Formation Process
+Driving Droplets by Curvi-Propulsion
+A mesoscopic model for microscale hydrodynamics and interfacial phenomena  Slip, films, and contact angle hysteresis
+Moving contact lines in a pure-vapor atmosphere  a singularity-free description in the sole framework of classical physics
+Scaling laws for slippage on superhydrophobic fractal surfaces
+Effect of oxidation on the Mechanical Properties of Liquid Gallium and Eutectic Gallium-Indium
+Surface Transport in Pre--Melted Films with Application to Grain--Boundary Grooving
+Ni coarsening in the three-phase solid oxide fuel cell anode - a phase-field simulation study
+Spacelike surfaces with free boundary in the Lorentz-Minkowski space
+Understanding Controls on Interfacial Wetting at Epitaxial Graphene  Experiment and Theory
+Stokes flow near the contact line of an evaporating drop
+Mesoscopic analysis of Gibbs' criterion for sessile nanodroplets on trapezoidal substrates
+Wetting and contact-line effects for spherical and cylindrical droplets on graphene layers  A comparative molecular-dynamics investigation
+Wetting, Spreading, and Adsorption on Randomly Rough Surfaces
+Do liquid drops roll or slide on inclined surfaces?
+Maximum speed of dewetting on a fiber
+Evaluating the robustness of top coatings comprising plasma-deposited fluorocarbons in electrowetting systems
+Superior performance of multilayered fluoropolymer films in low voltage electrowetting
+Translating graphs by Mean curvature flow in $\M^n\times\Real$
+Elastocapillary instability under partial wetting conditions  bending versus buckling
+Formation of surface nanobubbles and universality of their contact angles  A molecular dynamics approach
+Surface nanobubbles as a function of gas type
+Moving liquids with light  Photoelectrowetting on semiconductors
+Wettability and "petal effect" of GaAs native oxides
+Ultrafast Drop Movements Arising from Curvature Gradient
+Statics of polymer droplets on deformable surfaces
+Surface tension of multi-phase flow with multiple junctions governed by the variational principle
+Preferential Forest-assembly of Single-Wall Carbon Nanotubes on Low-energy Electron-beam Patterned Nafion Films
+Droplet-Induced Budding Transitions of Membranes
+Fabrication of hydrophobic inorganic coatings on natural lotus leaves for nanoimprint stamps
+Heterogeneous critical nucleation on a completely-wettable substrate
+Drying and deposition of poly(ethylene oxide) droplets determined by P¨¦clet number
+Surface energy engineering of graphene
+Evaporation of droplets on strong and low-pinning surfaces and dynamics of the triple line
+Dynamics of cylindrical droplets on flat substrate  Lattice Boltzmann modeling versus simple analytic models
+A Model of Electrowetting, Reversed Electrowetting and Contact Angle Saturation
+Curvature Gradient Driving Droplets in Fast Motion
+Tunable contact angle hysteresis on micropatterned surfaces
+Wetting on smooth micropatterned defects
+Existence of a capillary surface with prescribed contact angle in $M\times\R$
+Capillary floating and the billiard ball problem
+Effective interactions and equilibrium configurations of colloidal particles on a sessile droplet
+Convergence to equilibrium for a thin film equation on a cylindrical surface
+Equilibrium morphologies and effective spring constants of capillary bridges
+Generic role of the anisotropic surface free energy on the morphological evolution in a strained-heteroepitaxial solid droplet on a rigid substrate
+Research on the behavior of liquid fluids atop superhydrophobic gas-bubbled surfaces
+Structure and stability of double emulsions
+UFO  "Unidentified" Floating Object Driven by Thermocapillarity
+Avalanche of particles in evaporating coffee drops
+Wetting Splashing
+The motion, stability and breakup of a stretching liquid bridge with a receding contact line
+Quantitative testing of robustness on super-omniphobic surfaces by drop impact
+How water droplets evaporate on a superhydrophobic substrate
+Effect of Impurities in Description of Surface Nanobubbles
+Superhydrophobicity on hairy surfaces
+Enhanced Self-organized Dewetting of Ultrathin Polymer Films under Water-organic Solutions  Fabrication of Sub-micron Spherical Lens Arrays
+Modelling receding contact lines on superhydrophobic surfaces
+On the energy-minimizing steady states of a thin film equation
+Does Young's equation hold on the nanoscale? A Monte Carlo test for the binary Lennard-Jones fluid
+Flow boiling of water on nanocoated surfaces in a microchannel
+Force network analysis of jammed solids
+The relation of steady evaporating drops fed by an influx and freely evaporating drops
+Free energy of colloidal particles at the surface of sessile drops
+Multi-seeded melt growth (MSMG) of bulk Y-Ba-Cu-O using thin-film seeds
+How water meets a very hydrophobic surface
+Shape and motion of drops in the inertial regime
+From Bijels to Pickering emulsions  a lattice Boltzmann study
+Tunable Functionality and toxicity studies of Titanium Dioxide Nanotube Layers
+Equilibrium gas-liquid-solid contact angle from density-functional theory
+Uptake of water droplets by nonwetting capillaries
+Embedded minimal and constant mean curvature annulus touching spheres
+Monte Carlo Test of the Classical Theory for Heterogeneous Nucleation Barriers
+Contact angle dependence on the fluid-wall dispersive energy
+Molecular modeling of hydrogen bonding fluids  Vapor-liquid coexistence and interfacial properties
+Minimal annuli with constant contact angle along the planar boundaries
+Microstructured superhydrorepellent surfaces  Effect of drop pressure on fakir-state stability and apparent contact angles
+Capillary filling in microchannels patterned by posts
+Contact angle determination in multicomponent lattice Boltzmann simulations
+Beating the teapot effect
+Superheated water drops in hot oil
+Wetting gradient induced separation of emulsions  A combined experimental and lattice Boltzmann computer simulation study
+Influence of wettability on liquid water transport in gas diffusion layer of proton exchange membrane fuel cells (PEMFC)
+Elasticity of a contact-line and avalanche-size distribution at depinning
+Contribution au Phenomene de Mouillabilite en presence Dun tensioactif anionique SDS et non ionique C11E5
+Capillary filling with wall corrugations] Capillary filling in microchannels with wall corrugations  A comparative study of the Concus-Finn criterion by continuum, kinetic and atomistic approaches
+Capillary instability on a hydrophilic stripe
+Modelling the corrugation of the three-phase contact line perpendicular to a chemically striped substrate
+Anisotropic hysteresis on ratcheted superhydrophobic surfaces
+Capillary Bridge Formation and Breakage  A Test to Characterize Antiadhesive Surfaces
+Viscous Flow Over a Chemically Patterned Surface
+Micron-scale droplet deposition on a hydrophobic surface using a retreating syringe
+Stick-slip dynamics of an oscillated sessile drop
+Influence of contact angle on slow evaporation in two-dimensional porous media
+Measuring accurately liquid and tissue surface tension with a compression plate tensiometer
+Drop impact upon micro- and nanostructured superhydrophobic surfaces
+Mean Curvature Motion of Graphs with Constant Contact Angle at a Free Boundary
+Contact line dynamics in binary lattice Boltzmann simulations
+Hydrophobic Interactions and Dewetting between Plates with Hydrophobic and Hydrophilic Domains
+Vibration-induced climbing of drops
+Extreme resistance of super-hydrophobic surfaces to impalement  reversible electrowetting related to the impacting/bouncing drop test
+Effect of self-affine fractal characteristics of surfaces on wetting
+Dynamics of drying in 3D porous media
+Analytical solution of Stokes flow inside an evaporating sessile drop  Spherical and cylindrical cap shapes
+Analytical solution for inviscid flow inside an evaporating sessile drop
+Capillary filling with pseudo-potential binary Lattice-Boltzmann model
+Moving contact line with balanced stress singularities
+Revisit of interfacial free energy of the hard sphere system near hard wall
+Phase-field approach to polycrystalline solidification including heterogeneous and homogeneous nucleation
+Mean Curvature Motion of Graphs with Constant Contact Angle and Moving Boundaries
+Capillary filling in patterned channels
+Fabrication of Embedded Microvalve on PMMA Microfluidic Devices through Surface Functionalization
+Capillary adhesion between elastic solids with randomly rough surfaces
+Anisotropic drop morphologies on corrugated surfaces
+Self pinning protein-laden drops
+Fabrication of Miniaturized Variable-focus Lens Using Liquid Filling Technique
+A microscopic view on contact angle selection
+Capillary filling using Lattice Boltzmann Equations  the case of multi-component fluids
+The wetting problem of fluids on solid surfaces  Dynamics of lines and contact angle hysteresis
+Ellipsoidal particles at fluid interfaces
+Microscopic structure of electrowetting-driven transitions on superhydrophobic surfaces
+The wetting problem of fluids on solid surfaces. Part 2  the contact angle hysteresis
+The wetting problem of fluids on solid surfaces. Part 1  the dynamics of contact lines
+Forced Imbibition - a Tool for Determining Laplace Pressure, Drag Force and Slip Length in Capillary Filling Experiments
+Validity of the "sharp-kink approximation" for water and other fluids
+Micro-Ball Lens Array Fabrication in Photoresist Using Ptfe Hydrophobic Effect
+Liquid crystal anchoring transitions on aligning substrates processed by plasma beam
+Specific Adhesion of Peptides on Semiconductor Surfaces in Experiment and Simulation
+Nanodroplets on rough hydrophilic and hydrophobic surfaces
+Linear oscillations of a compressible hemispherical bubble on a solid substrate
+Lattice Boltzmann simulation of electrowetting-on-dielectric in a rough-wall channel
+Statics and dynamics of a cylindrical droplet under an external body force
+A proof of the invariance of the contact angle in Electrowetting
+Capillary filling using Lattice Boltzmann Equations  the case of multi-phase flows
+Complete wetting transitions of nematic liquid crystals on a structured substrate
+Motion of nanodroplets near chemical heterogeneities
+Relaxation of a dewetting contact line Part 2  Experiments
+Relaxation of a dewetting contact line Part 1  A full-scale hydrodynamic calculation
+Minimal Surfaces in $S^3$ with Constant Contact Angle
+A Remark on Compact Minimal Surfaces in $S^5$ with Non-Negative Gaussian Curvature
+A thermodynamic model for the melting of supported metal nanoparticles
+Conceptual aspects of line tensions
+Making a splash with water repellency
+A Congruence Theorem for Minimal Surfaces in $S^{5}$ with Constant Contact Angle
+Effective creases and contact angles between membrane domains with high spontaneous curvature
+A Characterization of Minimal Surfaces in $S^5$ with Parallel Normal Vector Field
+Modelling contact angle hysteresis on chemically patterned and superhydrophobic surfaces
+Force heterogeneities in particle assemblies  From order to disorder
+Phase Field Theory of Heterogeneous Crystal Nucleation
+Gas Bubbles and Gas Pancakes at Liquid/Solid Interface  A Continuum Theory Incorporated with Molecular Interactions
+Volume-controlled buckling of thin elastic shells  Application to crusts formed on evaporating partially-wetted droplets
+Colloidal particles at a nematic-isotropic interface  effects of confinement
+Dynamics of sliding drops on superhydrophobic surfaces
+Non-Newtonian thin films with normal stresses  dynamics and spreading
+Discontinuous liquid rise in capillaries with nonuniform cross-sections
+Influence of surface roughness on superhydrophobicity
+Condensation of helium in nanoscopic alkali wedges at zero temperature
+Mesoscopic modeling of a two-phase flow in the presence of boundaries  the Contact Angle
+Drop dynamics on chemically patterned surfaces
+A New Characterization of the Clifford Torus
+Modeling the elastic deformation of polymer crusts formed by sessile droplet evaporation
+Nanoscale capillary wetting studied with dissipative particle dynamic
+Liquid Nanodroplets Spreading on Chemically Patterned Surfaces
+Contact angle hysteresis of cylindrical drops on chemically heterogeneous striped surfaces
+Forced dewetting on porous media
+The contact angle in inviscid fluid mechanics
+The validity of Cassie's law  A simple exercise using a simplified model
+Differences of interface and bulk transport properties in polymer field-effect devices
+Contact angle measurements on superhydrophobic Carbon Nanotube Forests   effect of fluid pressure
+Modelling droplets on superhydrophobic surfaces  equilibrium states and transitions
+Droplet motion driven by surface freezing or melting  A mesoscopic hydrodynamic approach
+On the behavior of liquid drops on a solid surface. 1. The sliding of drops on an inclined surface
+Quantitative phase-field modeling of two-phase solidification
+Instability of a moving contact line
+Dynamic van der Waals Theory of two-phase fluids in heat flow
+Can non-linear elasticity explain contact-line roughness at depinning?
+Polymer nano-doplets forming liquid bridges in chemically structured slit pores  A computer simulation
+Histogram analysis as a method for determining the line tension by Monte-Carlo simulations
+NaCl nanodroplet on NaCl(100) at the melting point
+The influence of droplet size on line tension
+Geometric view of the thermodynamics of adsorption at a line of three-phase contact
+Contact Angle of the Colloidal Liquid-Gas Interface and a Hard Wall
+Wetting transition of water on graphite and other surfaces
+Quantitative analysis of the critical current due to vortex pinning by surface corrugation
+Spreading Dynamics of Polymer Nanodroplets in Cylindrical Geometries
+Capillarity driven spreading of circular drops of shear-thinning fluid
+Mesoscopic modelling of droplets on topologically patterned substrates
+Analysis of the self-similar spreading of power law fluids
+Boundary slip as a result of a prewetting transition
+Transition temperatures and contact angles in the sequential-wetting scenario of n-alkanes on (salt) water
+Contact Angle for Immersed Surfaces in $S^{2n+1}$
+Critical Casimir effect and wetting by helium mixtures
+Fluid adsorption near an apex  Covariance between complete and critical wetting
+Characteristic lengths at moving contact lines for a perfectly wetting fluid  the influence of speed on the dynamic contact angle
+Spreading of Latex Particles on a Substrate
+Statistics of the contact network in frictional and frictionless granular packings
+Lattice Boltzmann simulations of contact line motion in a liquid-gas system
+Adsorption of polyampholytes on charged surfaces
+Dislocation loops in overheated free-standing smectic films
+Geometry-dependent electrostatics near contact lines
+Memory in 2D heap experiments
+Wetting transitions of He4 on alkali metal surfaces from density functional calculations
+Kinetic Slip Condition, van der Waals Forces, and Dynamic Contact Angle
+Shapes, contact angles, and line tensions of droplets on cylinders
+Statistical thermodynamics of membrane bending mediated protein-protein attraction
+Computer simulation studies of wetting on heterogeneous surfaces
+Pseudo-contact angle due to superfluid vortices in $^{4}$He
+Dewetting on porous media with aspiration
+Reversible electrowetting and trapping of charge  model and experiments
+Influence of wetting properties on the hydrodynamic boundary condition at a fluid-solid interface
+Contact angles on heterogeneous surfaces; a new look at Cassie's and Wenzel's laws
+Gravitational dependence of contact angle hysteresis for a solid defect pinning a liquid-vapor interface
+A Model for Force Fluctuations in Bead Packs
+Symmetry via Spherical Reflection and Spanning Drops in a Wedge

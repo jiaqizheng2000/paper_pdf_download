@@ -1,0 +1,5 @@
+Theoretical analysis for dynamic contact angle hysteresis on chemically patterned surfaces
+Gravitational effect on the advancing and receding angle of a 2D Cassie-Baxter droplet on a textured surface
+Dynamic contact angle hysteresis in liquid bridges
+Regimes of Wetting Transitions on Superhydrophobic Textures Conditioned by Energy of Receding Contact Lines
+

@@ -1,0 +1,100 @@
+Wettability of graphite under 2D confinement
+Spreading fronts of wetting liquid droplets  microscopic simulations and universal fluctuations
+Effects of plasma on physical properties of water  nanocrystalline-to-amorphous phase transition and improving produce washing
+Wetting dynamics under periodic switching on different scales  Characterization and mechanisms
+Liquid film rupture beyond the thin-film equation  a multi-component lattice Boltzmann study
+An improved approach to manufacture CNT reinforced magnesium AZ91 composites with increased strength and ductility
+Growth Rates of Hydrogen Microbubbles in Reacting Femtoliter Droplets
+A versatile metasurface enabling superwettability for self-cleaning and dynamic color response
+Deep Vision-Inspired Bubble Dynamics on Hybrid Nanowires with Dual Wettability
+Contact angle measurement on curved wetting surface in multiphase lattice Boltzmann method
+Potential Tribological and Antibacterial Benefits of Pulsed Laser Deposited Zirconia Thin Film on Ti6Al4V Bio-alloy
+Assessment of nanoparticle immersion depth at liquid interfaces from chemically equivalent macroscopic surfaces
+Universal aspects of droplet spreading dynamics in Newtonian and non-Newtonian Fluids
+A lattice Boltzmann model for self-diffusiophoretic particles near and at liquid-liquid interfaces
+Robot-printer for creating elements of technological equipment for the production of components of biofuel compositions
+Wetting of an elastic sheet subject to external tension
+Electrowetting-on-liquid-dielectric (EWOLD) enables droplet manipulation with a few volts
+Three-dimensional study of double droplets impact on a wettability-patterned surface
+Soft wetting with (a)symmetric Shuttleworth effect
+Digital Rock Typing DRT Algorithm Formulation with Optimal Supervised Semantic Segmentation
+Influence of Sequential Changes in the Crude Oil-Water Interfacial Tension on Spontaneous Imbibition in Oil-Wet Sandstone
+Controlling the dewetting morphologies of thin liquid films by switchable substrates
+A lattice Boltzmann study on Brownian diffusion and friction of a particle in a confined multicomponent fluid
+Biomimetic Hierarchical Structuring of PLA by Ultra-Short Laser Pulses for Processing of Tissue Engineered Matrices  Study of Cellular and Antibacterial Behavior
+Numerical studies of long-term wettability alteration effects in CO$_2$ storage applications
+An improved multicomponent pseudopotential lattice Boltzmann method for immiscible fluid displacement in porous media
+Numerical Study of the Wetting Dynamics of Droplet on Laser Textured Surfaces  Beyond Classical Wenzel and Cassie-Baxter Model
+Interfacial thermal conductance between TiO2 nanoparticle and water  A molecular dynamics study
+Dynamics of two-dimensional liquid bridges
+Wafer-scale, full-coverage, acoustic self-limiting assembly of particles on flexible substrates
+Changing the flow profile and resulting drying pattern of dispersion droplets via contact angle modification
+Multiple droplets on a conical fiber  formation, motion, and droplet mergers
+Cold plasma treatment of seeds  deciphering the role of contact surfaces through multiple exposures, randomizing and stirring
+The Impact of Sub-Resolution Porosity on Numerical Simulations of Multiphase Flow
+The air-water interface of condensed water microdroplets does not produce H$_2$O$_2$
+Wettability of graphene by molten polymers
+Field-scale impacts of long-term wettability alteration in geological CO$_2$ storage
+Visualizing and Quantifying Wettability Alteration by Silica Nanofluids
+Droplets on substrates with oscillating wettability
+Multiscale perspective on wetting on switchable substrates  mapping between microscopic and mesoscopic models
+How water wets and self-hydrophilizes nanopatterns of physisorbed hydrocarbons
+Multiscale ultrafast laser texturing of marble for reduced surface wetting
+Gradient-dynamics model for liquid drops on elastic substrates
+Effects of withdrawal speeds on the structural, morphological, electrical, and optical properties of CuO thin films synthesized by dip-coating for CO2 gas sensing
+Interatomic interaction at the aluminum-fullerene $\mathrm{C}_{60}$ interface
+Enhanced transport of ions by tuning surface properties of the nanochannel
+Tailoring porous media for controllable capillary flow
+Coalescence of polymeric sessile drops on a partially wettable substrate
+Rheology of immiscible two-phase flow in mixed wet porous media  Dynamic pore network model and capillary fiber bundle model results
+pH Switchable Pickering Emulsions Stabilized by Polyelectrolyte Biosurfactant Complex Coacervate Colloids
+Prediction of Self-Assembled Dewetted Nanostructures for Photonics Applications via a Continuum Mechanics Framework
+Molecular Dynamics Study of Droplets on Flat Crystalline Surface during Cooling and Ice formation
+Distinct chemistries explain decoupling of slip and wettability in atomically smooth aqueous interfaces
+Spontaneous imbibition in porous media  from pore scale to Darcy scale
+Sustainable improvement of seeds vigor using dry atmospheric plasma priming  evidence through coating wettability, water uptake and plasma reactive chemistry
+Numerical Simulations of Frost Growth Using Mixture Model on Surfaces with Different Wettability
+Processing Dynamics of 3D-Printed Carbon Nanotubes-Epoxy Composites
+Adhesive forces inhibit underwater contact formation for a soft-hard collision
+Lattice Boltzmann simulation of three-phase flows with moving contact lines on curved surfaces
+Phase-Field Modeling of Wetting and Balling Dynamics in Powder Bed Fusion Process
+Patterns formed in a thin film with spatially homogeneous and non-homogeneous Derjaguin disjoining pressure
+Tunable Wettability of Polymer Films by Partial Engulfment of Nanoparticles
+Lattice Boltzmann simulations of stochastic thin film dewetting
+Critical condition for electrowetting-induced detachment of a droplet from a curved surface
+Ultrasonic Oscillatory Two-phase Flow in Microchannels
+Tuning capillary flow in porous media with hierarchical structures
+Steering droplets on substrates using moving steps in wettability
+Capillary and Viscous Fracturing During Drainage in Porous Media
+Rebound suppression of a droplet impact on a supersolvophobic surface by a small amount of polymer additives
+The Prediction of Intrinsic Wettability without Young's Equation
+Molecular Dynamic Study of Local Interfacial Thermal Resistance of Solid-Liquid and Solid-Solid Interfaces  Water and Nanotextured Surface
+Surface Energy of the Titan Aerosol Analog "Tholin"
+The ping pong ball water cannon
+Equilibrium orientation and adsorption of an ellipsoidal Janus particle at a fluid-fluid interface
+Interface modelling for {\it ab initio} evaluation of contact angle on a metallic surface
+Surface Adhesion of Back-Illuminated Ultrafast Laser-Treated Polymers
+Spreading and retraction dynamics of sessileevaporating droplets comprising volatile binary mixtures
+Investigation of the Impact of Cold Plasma Treatment on the Wettability of Medical Grade Polyvinylchloride
+Mesoscopic Characterization of Bubble Dynamics in Flow Boilling following A Pseudopotential-based Approach
+Wind- and Gravity-Forced Drop Depinning
+Limitations of Ordered Macroporous Battery Electrode Materials at High Charge and Discharge Rates
+Rupture of liquid bridges on porous tips  Competing mechanisms of spontaneous imbibition and stretching
+Modeling of relative permeabilities including dynamic wettability transition zones
+Modelling the Effects of using Gas Diffusion Layers with Patterned Wettability for Advanced Water Management in Proton Exchange Membrane Fuel Cells
+Electrowetting-Controlled Dropwise Condensation with Patterned Electrodes  Physical Principles, Modeling, and Application Perspectives for Fog Harvesting and Enhanced Heat Transfer
+Miscibility and wettability  how interfacial tension influences droplet impact onto thin wall films
+Electrohydrodynamics of dielectric droplet collision with variant wettability surfaces
+Effects of surface nanostructure and wettability on pool boiling  A molecular dynamics study
+Thermal interfacial resistance and nanolayer effect on the thermal conductivity of Al2O3-CO2 nanofluid  A Molecular Dynamics approach
+Bifurcation study for a surface-acoustic-wave driven meniscus
+Cleaning and Surface Properties
+Surface declination governed asymmetric sessile droplet evaporation
+Numerical and Theoretical Modeling of Droplet Impact on Spherical Surfaces
+How does boiling occur in lattice Boltzmann simulations?
+Sweeping by Sessile Drop Coalescence
+Surface Pressure of Liquid Interfaces Laden with Micron-Sized Particles
+Pushing a soft body droplet through porous medium
+Bidirectional Motion of Droplets on Gradient Liquid Infused Surfaces
+Effects of additives on oil displacement in nanocapillaries  a mesoscale simulation study
+Dynamic wetting and heat transfer during droplet impact on heated bi-phobic wettability-patterned surfaces
